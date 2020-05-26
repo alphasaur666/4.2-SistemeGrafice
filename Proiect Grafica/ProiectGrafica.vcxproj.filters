@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Billboard.cpp" />
+    <ClCompile Include="Building.cpp" />
+    <ClCompile Include="Camera.cpp" />
+    <ClCompile Include="CarRun.cpp" />
+    <ClCompile Include="CarStop.cpp" />
+    <ClCompile Include="Engine.cpp" />
+    <ClCompile Include="Light.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="MyScene.cpp" />
+    <ClCompile Include="ObjLoader.cpp" />
+    <ClCompile Include="Road.cpp" />
+    <ClCompile Include="Scene.cpp" />
+    <ClCompile Include="Texture.cpp" />
+    <ClCompile Include="TrafficLight.cpp" />
+    <ClCompile Include="Tree.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Animation.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Billboard.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Building.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Camera.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="CarRun.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="CarStop.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="DisplayableObject.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Engine.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Light.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="MyScene.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="ObjLoader.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Road.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Texture.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Scene.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="TrafficLight.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="Tree.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+    <ClInclude Include="VectorMath.h">
+      <Filter>Headers</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Headers">
+      <UniqueIdentifier>{df68533e-0ab7-4cbc-9fdf-0d07c0dbce68}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+LEFT CLICK + DRAG - privim in jur
+W, A, S, D - miscare
+Q - pune camera pe pamant
+R - ridica camera
+F - coboara camera
+E - toogle zi / noapte
+SPACE - reseteaza camera

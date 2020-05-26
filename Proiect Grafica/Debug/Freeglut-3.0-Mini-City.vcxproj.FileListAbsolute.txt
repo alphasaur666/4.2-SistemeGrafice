@@ -1,0 +1,4 @@
+C:\Users\Razvan\Desktop\Mini City Automatica\Freeglut-3.0-Mini-City\Debug\ProiectGrafica.exe
+C:\Users\Razvan\Desktop\Mini City Automatica\Freeglut-3.0-Mini-City\Debug\ProiectGrafica.pdb
+C:\Users\Razvan\Desktop\Mini City Automatica\Proiect Grafica\Debug\ProiectGrafica.exe
+C:\Users\Razvan\Desktop\Mini City Automatica\Proiect Grafica\Debug\ProiectGrafica.pdb
